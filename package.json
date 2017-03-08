@@ -1,5 +1,5 @@
 {
-  "name": "simple-todos",
+  "name": "foobar-vmkr",
   "private": true,
   "scripts": {
     "start": "meteor run"
@@ -7,5 +7,10 @@
   "dependencies": {
     "meteor-node-stubs": "~0.2.0",
     "babel-runtime": "6.18.0"
+  },
+
+  "engines": {
+    "npm": "4.2.0"
   }
+
 }
